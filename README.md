@@ -33,6 +33,11 @@ What to include in your README to stand out against other repositories and marke
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
+## Features and Requirements
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
 ## History
 
 - [ ] Write history
