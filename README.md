@@ -1,5 +1,5 @@
 # README TEMPLATE
-What to include in your README to stand out against other repositories and showing potential interest. 
+What to include in your README to stand out against other repositories and marketing yourself to gain traction for open source projects. 
 
 # Project Name
 
