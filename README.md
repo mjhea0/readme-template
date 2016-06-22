@@ -11,7 +11,7 @@ What to include in your README to stand out against other repositories and showi
 ### Stack
 - [ ] List all the programming languages/frameworks/etc. 
 
-### Software Architecture 
+### Software Architecture/Site Map
 - [ ] Create a visualization that best represents how your repository functions
 
 ## Installation
