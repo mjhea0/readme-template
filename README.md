@@ -3,15 +3,21 @@ What to include in your README to stand out against other repositories and showi
 
 # Project Name
 
-"[]" Write a project description
+- [ ] Write a project description
+  - [ ] What problem does it solve? 
+  - [ ] What platform does it use? Mobile? Web? Both? 
+  - [ ] Is it a gem/application/kata? 
 
 ## Installation
 
-[ ] Describe the installation process
+- [ ] Describe the installation process
+  - [ ] What dependencies are required to run the repository smoothly? 
 
 ## Usage
 
-[ ] Write usage instructions
+- [ ] Write usage instructions
+  - [ ] How does one use this? 
+  - [ ] Include photos to advertise. GitHub is an app store for open source projects! 
 
 ## Contributing
 
@@ -23,12 +29,12 @@ What to include in your README to stand out against other repositories and showi
 
 ## History
 
-[ ] Write history
+- [ ] Write history
 
 ## Credits
 
-[ ] Write credits
+- [ ] Write credits
 
 ## License
 
-[ ] Write license
+- [ ] Write license
