@@ -3,15 +3,15 @@ What to include in your README to stand out against other repositories and showi
 
 # Project Name
 
-[] Write a project description
+[ ] Write a project description
 
 ## Installation
 
-[] Describe the installation process
+[ ] Describe the installation process
 
 ## Usage
 
-[] Write usage instructions
+[ ] Write usage instructions
 
 ## Contributing
 
@@ -23,12 +23,12 @@ What to include in your README to stand out against other repositories and showi
 
 ## History
 
-[] Write history
+[ ] Write history
 
 ## Credits
 
-[] Write credits
+[ ] Write credits
 
 ## License
 
-[] Write license
+[ ] Write license
