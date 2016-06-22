@@ -3,7 +3,7 @@ What to include in your README to stand out against other repositories and showi
 
 # Project Name
 
-[ ] Write a project description
+"[]" Write a project description
 
 ## Installation
 
