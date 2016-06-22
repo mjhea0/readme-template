@@ -8,6 +8,12 @@ What to include in your README to stand out against other repositories and showi
   - [ ] What platform does it use? Mobile? Web? Both? 
   - [ ] Is it a gem/application/kata? 
 
+### Stack
+- [ ] List all the programming languages/frameworks/etc. 
+
+### Software Architecture 
+- [ ] Create a visualization that best represents how your repository functions
+
 ## Installation
 
 - [ ] Describe the installation process
