@@ -44,3 +44,9 @@ What to include in your README to stand out against other repositories and marke
 ## License
 
 - [ ] Write license
+
+Great READMEs: 
+[Free Code Camp](https://github.com/FreeCodeCamp/FreeCodeCamp)
+[Open Farm](https://github.com/openfarmcc/OpenFarm)
+[D3](https://github.com/d3/d3)
+[Charter](https://github.com/chartercc/Charter)
